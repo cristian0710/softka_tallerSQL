@@ -1,0 +1,1 @@
+# softka_tallerSQL
